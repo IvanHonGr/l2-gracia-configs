@@ -1,0 +1,5 @@
+/geodata
+/log
+/webserver
+*.sh
+*.bat
